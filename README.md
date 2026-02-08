@@ -24,12 +24,12 @@ These projects are designed to **showcase my practical skills to recruiters** in
 
 ---
 
-### 2️⃣ Jenkins CI/CD Pipeline Project
+### 2️⃣ Strands-Agent-Repo
 
 ![Jenkins](https://raw.githubusercontent.com/gopeshthakare13/jenkins-ci-cd-project/main/images/jenkins.png)
-**Description:** End-to-end Jenkins pipeline including build, test, Docker image creation, and deployment on AWS EC2.
+**Description:** A comparison of two approaches to building AI agents: simple direct execution vs enterprise-grade distributed workflows..
 
-🔗 **GitHub:** [https://github.com/gopeshthakare13/jenkins-ci-cd-project](https://github.com/gopeshthakare13/jenkins-ci-cd-project)
+🔗 **GitHub:** [https://github.com/gopeshthakare13/Strands-Agent-Repo.git](https://github.com/gopeshthakare13/Strands-Agent-Repo.git)
 
 ---
 
