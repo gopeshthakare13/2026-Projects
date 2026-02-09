@@ -22,8 +22,8 @@ This repository is actively maintained, and many more projects will be added ove
 
 ### 1️⃣ TWO-TIER-FLASK-APP
 
-![TWO-TIER-FLASK-APP](https://raw.githubusercontent.com/gopeshthakare13/online-shop-app/main/images/app.png)
-**Description:** A two-tier online shopping application with frontend and backend services, containerized using Docker and deployed via CI/CD.
+![TWO-TIER-FLASK-APP](https://github.com/gopeshthakare13/2026-Projects/blob/main/Project-Images/flask-app.png)
+**Description:** A 2-Tier Flask application is a client-server architecture where the Flask backend directly communicates with a MySQL database. It separates the application logic and database layer, making it simple, lightweight, and easy to deploy.
 
 🔗 **GitHub:** [https://github.com/gopeshthakare13/two-tier-flask-app.git](https://github.com/gopeshthakare13/two-tier-flask-app.git)
 
