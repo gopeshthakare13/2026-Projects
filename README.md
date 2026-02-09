@@ -22,10 +22,10 @@ This repository is actively maintained, and many more projects will be added ove
 
 ### 1️⃣ TWO-TIER-FLASK-APP
 
-![Online Shopping](https://raw.githubusercontent.com/gopeshthakare13/online-shop-app/main/images/app.png)
+![TWO-TIER-FLASK-APP](https://raw.githubusercontent.com/gopeshthakare13/online-shop-app/main/images/app.png)
 **Description:** A two-tier online shopping application with frontend and backend services, containerized using Docker and deployed via CI/CD.
 
-🔗 **GitHub:** [https://github.com/gopeshthakare13/online-shop-app](https://github.com/gopeshthakare13/online-shop-app)
+🔗 **GitHub:** [https://github.com/gopeshthakare13/two-tier-flask-app.git](https://github.com/gopeshthakare13/two-tier-flask-app.git)
 
 
 ## 🎯 Why These Projects Matter
