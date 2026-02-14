@@ -20,12 +20,20 @@ This repository is actively maintained, and many more projects will be added ove
 
 ##  Projects List
 
-### 1️⃣ TWO-TIER-FLASK-APP
+### 1 TWO-TIER-FLASK-APP
 
 ![TWO-TIER-FLASK-APP](https://github.com/gopeshthakare13/2026-Projects/blob/main/Project-Images/flask-app.png)
 **Description:** A 2-Tier Flask application is a client-server architecture where the Flask backend directly communicates with a MySQL database. It separates the application logic and database layer, making it simple, lightweight, and easy to deploy.
 
 🔗 **GitHub:** [https://github.com/gopeshthakare13/two-tier-flask-app.git](https://github.com/gopeshthakare13/two-tier-flask-app.git)
+
+### 2 Nodo-Todo-CICD (Using Gitlab)
+
+![TWO-TIER-FLASK-APP](https://github.com/gopeshthakare13/2026-Projects/blob/main/Project-Images/flask-app.png)
+**Description:** Nodo-Todo-CICD is a simple Todo web application integrated with a complete CI/CD pipeline. The project demonstrates how code changes are automatically built, tested, containerized, and deployed using DevOps practices.
+
+🔗 **GitHub:** [https://github.com/gopeshthakare13/Nodo-Todo-CICD.git](https://github.com/gopeshthakare13/Nodo-Todo-CICD.git)
+
 
 
 ## 🎯 Why These Projects Matter
