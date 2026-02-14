@@ -29,7 +29,7 @@ This repository is actively maintained, and many more projects will be added ove
 
 ### 2 Nodo-Todo-CICD (Using Gitlab)
 
-![TWO-TIER-FLASK-APP](https://github.com/gopeshthakare13/2026-Projects/blob/main/Project-Images/flask-app.png)
+![TWO-TIER-FLASK-APP](https://github.com/gopeshthakare13/2026-Projects/blob/main/Project-Images/Nodo-Todo-CiCd.png)
 **Description:** Nodo-Todo-CICD is a simple Todo web application integrated with a complete CI/CD pipeline. The project demonstrates how code changes are automatically built, tested, containerized, and deployed using DevOps practices.
 
 🔗 **GitHub:** [https://github.com/gopeshthakare13/Nodo-Todo-CICD.git](https://github.com/gopeshthakare13/Nodo-Todo-CICD.git)
